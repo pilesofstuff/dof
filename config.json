@@ -1,0 +1,13 @@
+{
+  "mode": "both",
+  "unit": "mm",
+  "out_unit": "mm",
+  "focal": 50.0,
+  "aperture": 11.0,
+  "sensor_diagonal": 43.3,
+  "object_depth": 500.0,
+  "guess": 5000.0,
+  "working_distance": 3000.0,
+  "overlap": 0.3
+}
+
